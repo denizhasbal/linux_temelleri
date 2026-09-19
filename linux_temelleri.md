@@ -1,8 +1,7 @@
 #Linux Temelleri
  
 ##Terminal komutları (ls,cd,grep,mkdir,chmod,top)
-
-      Terminal, bilgisayara yazarak komut vermemizi sağlar.
+   Terminal, bilgisayara yazarak komut vermemizi sağlar.
 
 ls → Bulunduğun klasördeki dosyaları gösterir.
 cd → Klasör değiştirir.
@@ -14,7 +13,7 @@ top → Çalışan işlemleri ve CPU/RAM kullanımını gösterir.
 
 ##Paket Yönetimi Nedir
 
-      Linux'ta programları kurmak, güncellemek ve kaldırmak için paket yöneticileri kullanılır.
+ Linux'ta programları kurmak, güncellemek ve kaldırmak için paket yöneticileri kullanılır.
 
 Dağıtıma göre farklı olabilir:
 
